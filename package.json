@@ -14,7 +14,7 @@
         "@types/ms": "^0.7.31",
         "@types/node": "^18.0.4",
         "@iamtraction/google-translate": "^1.1.2",
-        "axios": "^0.21.1",
+        "axios": "^0.27.2",
         "bad-words": "^3.0.4",
         "chalk": "^5.0.1",
         "canvas": "^2.9.1",
